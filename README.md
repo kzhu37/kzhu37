@@ -28,6 +28,8 @@ A collaborative Windows accessibility assistant shaped by direct user testing, w
 
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
+[Live demo](https://retza-live-demo.vercel.app)
+
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
 A real-client web development project combining client acquisition, product design, implementation, business thinking, and team execution for an optical engineering company.
 
