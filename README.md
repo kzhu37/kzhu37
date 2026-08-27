@@ -21,6 +21,8 @@ A collaborative adaptive-display prototype combining computational optics, gaze 
 
 `Electron` · `React` · `TypeScript` · `WebGL2` · `GLSL` · `MediaPipe`
 
+[Live demo](https://refract-portfolio.vercel.app)
+
 ### [Retza](https://github.com/kzhu37/Retza-Portfolio)
 A collaborative Windows accessibility assistant shaped by direct user testing, with fail-closed visual guidance that verifies real interface controls through Windows UI Automation before pointing to them.
 
