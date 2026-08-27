@@ -16,6 +16,8 @@ A Java desktop study platform built around application-focused practice, guarded
 
 `Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API`
 
+[Live demo](https://conceptlab-browser.vercel.app)
+
 ### [Refract](https://github.com/kzhu37/Refract-Portfolio)
 A collaborative adaptive-display prototype combining computational optics, gaze tracking, physical calibration, and real-time GPU rendering.
 
