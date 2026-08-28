@@ -14,7 +14,7 @@ A local-first social game platform where a Jeopardy-style prototype became a sys
 ### [ConceptLab](https://github.com/kzhu37/ConceptLab.Java-Portfolio)
 A Java desktop study platform built around application-focused practice, guarded generative output, local persistence, feedback, and reliability when remote generation fails.
 
-`Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API`
+`Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API` · `CheerpJ`
 
 [Live demo](https://conceptlab-browser.vercel.app)
 
