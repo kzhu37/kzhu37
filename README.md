@@ -35,4 +35,4 @@ A Spring 2026 real-client project where a four-person student web agency turned 
 
 `HTML` · `CSS` · `JavaScript`
 
-[Original Spring 2026 Webza site](https://webzacrew.netlify.app/)
+[Original Spring 2026 Webza site](https://webzacrew.netlify.app/) · [Later sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
