@@ -31,6 +31,8 @@ A collaborative Windows accessibility assistant shaped by direct user testing, w
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
-A real-client web development project combining client acquisition, product design, implementation, business thinking, and team execution for an optical engineering company.
+A Spring 2026 real-client project where a four-person student web agency turned outreach, external requirements, feedback, and an unfamiliar optical-engineering domain into two audience-specific web products.
 
 `HTML` · `CSS` · `JavaScript`
+
+[Original Spring 2026 Webza site](https://webzacrew.netlify.app/)
