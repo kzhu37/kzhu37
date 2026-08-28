@@ -14,12 +14,16 @@ A local-first social game platform where a Jeopardy-style prototype became a sys
 ### [ConceptLab](https://github.com/kzhu37/ConceptLab.Java-Portfolio)
 A Java desktop study platform built around application-focused practice, guarded generative output, local persistence, feedback, and reliability when remote generation fails.
 
-`Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API`
+`Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API` · `CheerpJ`
+
+[Live demo](https://conceptlab-browser.vercel.app)
 
 ### [Refract](https://github.com/kzhu37/Refract-Portfolio)
 A collaborative adaptive-display prototype combining computational optics, gaze tracking, physical calibration, and real-time GPU rendering.
 
 `Electron` · `React` · `TypeScript` · `WebGL2` · `GLSL` · `MediaPipe`
+
+[Live demo](https://refract-portfolio.vercel.app)
 
 ### [Retza](https://github.com/kzhu37/Retza-Portfolio)
 A collaborative Windows accessibility assistant shaped by direct user testing, with fail-closed visual guidance that verifies real interface controls through Windows UI Automation before pointing to them.
@@ -27,6 +31,8 @@ A collaborative Windows accessibility assistant shaped by direct user testing, w
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
-A real-client web development project combining client acquisition, product design, implementation, business thinking, and team execution for an optical engineering company.
+A Spring 2026 real-client project where a four-person student web agency turned outreach, external requirements, feedback, and an unfamiliar optical-engineering domain into two audience-specific web products.
 
 `HTML` · `CSS` · `JavaScript`
+
+[Original Spring 2026 Webza site](https://webzacrew.netlify.app/) · [Later sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
