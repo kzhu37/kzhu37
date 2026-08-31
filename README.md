@@ -1,38 +1,38 @@
 # Kevin Zhu
 
-I build software around difficult interfaces between people, data, and systems. My projects range from local game generation and learning tools to accessibility software, computational optics, and real-client web development.
+I build software where computation meets real-world constraints, from computational optics and accessibility tools to learning systems, algorithms, and client products. I am especially interested in systems that have to work with physical models, human behavior, imperfect data, or external requirements.
 
-## Selected projects
-
-### [Quizler Arena](https://github.com/kzhu37/QuizArena-Portfolio)
-A local-first social game platform where a Jeopardy-style prototype became a systems problem involving constrained board generation, replayability memory, state integrity, curated content pipelines, and deterministic verification.
-
-`React` · `TypeScript` · `JavaScript` · `Vite` · `Node.js`
-
-[Live demo](https://quizler-arena-portfolio.vercel.app)
-
-### [ConceptLab](https://github.com/kzhu37/ConceptLab.Java-Portfolio)
-A Java desktop study platform built around application-focused practice, guarded generative output, local persistence, feedback, and reliability when remote generation fails.
-
-`Java` · `Swing/AWT` · `Java HTTP Client` · `Groq API` · `CheerpJ`
-
-[Live demo](https://conceptlab-browser.vercel.app)
+## Featured projects
 
 ### [Refract](https://github.com/kzhu37/Refract-Portfolio)
-A collaborative adaptive-display prototype combining computational optics, gaze tracking, physical calibration, and real-time GPU rendering.
+A collaborative adaptive-display research prototype exploring whether display preprocessing can partially compensate for modeled visual blur, combining computational optics, calibrated gaze tracking, physical screen geometry, and real-time GPU rendering.
 
 `Electron` · `React` · `TypeScript` · `WebGL2` · `GLSL` · `MediaPipe`
 
 [Live demo](https://refract-portfolio.vercel.app)
 
+### [ConceptLab](https://github.com/kzhu37/ConceptLab.Java-Portfolio)
+An independently developed Java study platform that turns source material into application-focused practice, with guarded generation, validated local persistence, feedback loops, and resilient fallback behavior.
+
+`Java` · `Swing/AWT` · `Groq API` · `CheerpJ`
+
+[Live demo](https://conceptlab-browser.vercel.app)
+
+### [Quizler Arena](https://github.com/kzhu37/QuizArena-Portfolio)
+An independently developed social game platform where repeated Jeopardy-style play became a constrained search problem, using recursive board assembly, rollback, usage history, and validated local content to generate fresh playable games.
+
+`React` · `TypeScript` · `JavaScript` · `Vite` · `Node.js`
+
+[Live demo](https://quizler-arena-portfolio.vercel.app)
+
 ### [Retza](https://github.com/kzhu37/Retza-Portfolio)
-A collaborative Windows accessibility assistant shaped by direct user testing, with fail-closed visual guidance that verifies real interface controls through Windows UI Automation before pointing to them.
+A Windows-first accessibility assistant shaped by direct user testing, with verified visual guidance that resolves real interface controls through Windows UI Automation and refuses to point when the evidence is uncertain.
 
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
-A Spring 2026 real-client project where a four-person student web agency turned outreach, external requirements, feedback, and an unfamiliar optical-engineering domain into two audience-specific web products.
+A four-person real-client web project that turned outreach, an external optical-engineering brief, stakeholder feedback, and revision into two audience-specific web products.
 
 `HTML` · `CSS` · `JavaScript`
 
-[Original Spring 2026 Webza site](https://webzacrew.netlify.app/) · [Later sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
+[Original Webza site](https://webzacrew.netlify.app/) · [Sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
