@@ -9,7 +9,7 @@ A collaborative adaptive-display research prototype exploring whether display pr
 
 `Electron` · `React` · `TypeScript` · `WebGL2` · `GLSL` · `MediaPipe`
 
-[Live demo](https://refract-portfolio.vercel.app)
+[Interactive browser demo](https://refract-portfolio.vercel.app)
 
 ### [ConceptLab](https://github.com/kzhu37/ConceptLab.Java-Portfolio)
 An independently developed Java study platform that turns source material into application-focused practice, with guarded generation, validated local persistence, feedback loops, and resilient fallback behavior.
@@ -26,7 +26,7 @@ An independently developed social game platform where repeated Jeopardy-style pl
 [Live demo](https://quizler-arena-portfolio.vercel.app)
 
 ### [Retza](https://github.com/kzhu37/Retza-Portfolio)
-A Windows-first accessibility assistant built as my later engineering extension of a four-person project, with verified visual guidance that resolves real interface controls through Windows UI Automation and refuses to point when the evidence is uncertain.
+A Windows-first accessibility assistant with verified visual guidance that resolves real interface controls through Windows UI Automation and refuses to point when evidence is uncertain; the current system is my later engineering extension of an original four-person project.
 
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
