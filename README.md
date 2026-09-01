@@ -19,7 +19,7 @@ An independently developed Java study platform that turns source material into a
 [Live demo](https://conceptlab-browser.vercel.app)
 
 ### [Quizler Arena](https://github.com/kzhu37/QuizArena-Portfolio)
-An independently developed social game platform where repeated Jeopardy-style play became a constrained search problem, using recursive board assembly, rollback, usage history, and validated local content to generate fresh playable games.
+An independently developed social game platform where repeated Jeopardy-style play became a constrained search problem, using recursive board assembly, rollback, usage history, and reviewed local content to generate fresh playable games.
 
 `React` · `TypeScript` · `JavaScript` · `Vite` · `Node.js`
 
@@ -30,11 +30,11 @@ A Windows-first accessibility assistant built as my later engineering extension 
 
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
 
-[Browser demo](https://retza-demo.vercel.app/)
+[Browser adaptation](https://retza-demo.vercel.app/)
 
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
 A four-person real-client web project that turned outreach, an external optical-engineering brief, stakeholder feedback, and revision into two audience-specific web products.
 
 `HTML` · `CSS` · `JavaScript`
 
-[Webza agency site](https://webzacrew.netlify.app/) · [Zuxell Technologies showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
+[Original Webza site](https://webzacrew.netlify.app/) · [Sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
