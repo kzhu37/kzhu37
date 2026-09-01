@@ -26,13 +26,15 @@ An independently developed social game platform where repeated Jeopardy-style pl
 [Live demo](https://quizler-arena-portfolio.vercel.app)
 
 ### [Retza](https://github.com/kzhu37/Retza-Portfolio)
-A Windows-first accessibility assistant shaped by direct user testing, with verified visual guidance that resolves real interface controls through Windows UI Automation and refuses to point when the evidence is uncertain.
+A Windows-first accessibility assistant built as my later engineering extension of a four-person project, with verified visual guidance that resolves real interface controls through Windows UI Automation and refuses to point when the evidence is uncertain.
 
 `Electron` · `TypeScript` · `React` · `Windows UI Automation`
+
+[Browser demo](https://retza-demo.vercel.app/)
 
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
 A four-person real-client web project that turned outreach, an external optical-engineering brief, stakeholder feedback, and revision into two audience-specific web products.
 
 `HTML` · `CSS` · `JavaScript`
 
-[Original Webza site](https://webzacrew.netlify.app/) · [Sanitized Zuxell showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
+[Webza agency site](https://webzacrew.netlify.app/) · [Zuxell Technologies showcase](https://webza-zuxell-technologies-portfolio.vercel.app/)
