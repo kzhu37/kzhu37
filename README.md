@@ -32,6 +32,13 @@ A Windows-first accessibility assistant with verified visual guidance that resol
 
 [Browser adaptation](https://retza-demo.vercel.app/)
 
+### [PRO Goaltending Athlete App](https://github.com/kzhu37/ProGoaltending-App)
+An athlete-development prototype requested and used internally by PRO Goaltending, connecting fictional booking, coach recaps, assigned review, and Blueprint updates through coordinated local state.
+
+`Next.js` · `React` · `TypeScript` · `Zustand` · `Vitest`
+
+[Interactive demo](https://progoaltending-app.vercel.app/)
+
 ### [Webza x Zuxell Technologies](https://github.com/kzhu37/Webza-ZuxellTechnologiesWebsite-Portfolio)
 A four-person real-client web project that turned outreach, an external optical-engineering brief, stakeholder feedback, and revision into two audience-specific web products.
 
